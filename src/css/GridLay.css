@@ -1,0 +1,105 @@
+.container{
+    text-align: center;
+    margin :2% 6.5%;
+}
+
+.col
+{
+    text-align: center;
+    color: black;
+    
+}
+
+#Grid img{
+    width: 550px;
+    height: 350px;
+}
+
+#pref{
+    background : #3F414D;
+    color: white;
+    padding: 2%;
+
+}
+
+#pref input{
+    background : transparent;
+    color: white;
+    border: transparent;
+    border-bottom: 2px solid white;
+}
+
+#footm{
+    background : #8C8D94;
+    margin-top: -27px;
+    padding: 1%;
+}
+
+#footm  a{
+    color: blanchedalmond;
+    font-size: 11px;
+    font-weight: 600;    
+}
+
+
+#footm  a:hover{
+    color: #fc2779;
+    font-size: 12px;
+    text-decoration :none;        
+}
+
+#footm ul 
+{
+    list-style-type: none;
+    text-align: left;
+    padding: 1% ;
+}
+#footm li{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+#footm h6{
+    color: white;
+    text-align: left;
+}
+
+#icons p{
+    font-size: 10px;
+}
+
+#iconrow{
+    padding: 2%;
+}
+
+#icon span{
+    text-align: right;
+}
+
+#iconline{
+    text-align: left;
+}
+
+.doticons{
+    border-radius: 100%;
+    padding: 5%;
+    background:#fc2779;
+    color : white;
+    font-size: 50px;
+}
+
+#icons p{
+    font-size: 14px;
+    font-weight: bold;
+}
+#footer{
+    background: #fc2779;
+    color: white;
+    margin-bottom: 0px;
+}
+#footer a{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    text-decoration-style: none;
+}

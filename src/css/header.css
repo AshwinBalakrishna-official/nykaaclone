@@ -1,0 +1,16 @@
+.head{
+    background-image: url(https://adn-static1.nykaa.com/media/bannerpro/TopStrip1_Final_DesktopStripholi_1365x40-2730x80.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40px;
+}
+.col
+{
+    padding-top: 7px;
+    
+    
+}
+.head span{
+    color :black;
+    margin: 20px;
+}

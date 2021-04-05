@@ -1,0 +1,27 @@
+#brand img{
+    width:105px;
+    margin:0px -18px 0px 50px ;
+    padding: 0%;
+  
+}
+Navbar{
+    background:white;
+}
+span{
+margin : 20px 30px;
+color: black;
+}
+
+
+.nav-link{
+    font-weight: bold;
+    color: black;
+}
+.nav-link :hover{
+   
+    color: pink;
+}
+#search{
+    width: 250px;
+    margin-left: -30px;
+}
